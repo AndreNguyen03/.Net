@@ -1,0 +1,16 @@
+﻿# Bỏ qua thư mục .vs
+.vs/
+
+# Bỏ qua các file build và debug của Visual Studio
+*.obj
+*.exe
+*.bin
+*.dll
+
+# Bỏ qua thư mục chứa build output
+bin/
+obj/
+
+# Bỏ qua file cài đặt người dùng của Visual Studio
+*.user
+*.suo
